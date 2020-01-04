@@ -22,7 +22,7 @@ title: Peacock Consulting
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Peacock Consulting, LLC is a lead generation agency that helps local small businesses bring in a predictable stream of new clients without burning away their hours and money researching, testing, and running their own marketing campaigns. We use our unique "Lead Transformation System" to reliably attract the customers YOU want to your business -- and do it cheaper than traditional ad campaigns. 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://peacockconsultingfirm.com" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: peacockconsultingllc
 linkedin_username: peacock-consulting-firm

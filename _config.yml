@@ -21,21 +21,18 @@
 title: Peacock Consulting
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Peacock Consulting, LLC is a lead generation agency that helps local small businesses bring in a predictable stream of new clients without burning away their hours and money researching, testing, and running their own marketing campaigns. We use our unique "Lead Transformation System" to reliably attract the customers YOU want to your business -- and do it cheaper than traditional ad campaigns. 
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://peacockconsultingfirm.com" # the base hostname & protocol for your site, e.g. http://example.com
-facebook_username: peacockconsultingllc
-linkedin_username: peacock-consulting-firm
-
-sass:
-    sass_dir: _sass
+twitter_username: jekyllrb
+github_username:  jekyll
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -27,6 +27,9 @@ url: "https://peacockconsultingfirm.com" # the base hostname & protocol for your
 facebook_username: peacockconsultingllc
 linkedin_username: peacock-consulting-firm
 
+sass:
+    sass_dir: _sass
+
 # Build settings
 theme: minima
 plugins:

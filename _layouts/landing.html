@@ -7,7 +7,7 @@
     <meta name="robots" content="noindex" />
     <title>{{ page.title }}</title>
   </head>
-  <body>
+  <body styles="{% if page.bg == "blue" %}background-color: #002E6E;{% endif %}">
     <main aria-label="Content">
         {{ content }}
     </main>

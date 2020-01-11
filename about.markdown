@@ -8,14 +8,20 @@ permalink: /about/
 
 Do you get excited when new clients sign up for your programs?
 
-Peacock Consulting is a high impact lead generation agency for local small businesses that rapidly gets you cheap, ready-to-buy leads with Facebook Advertising.
+Peacock Consulting is a high impact lead generation agency for local small businesses. We rapidly get you cheap, ready-to-buy leads using Facebook & Instagram Advertising.
+
+## Our Mission
+
+We exist to get you *results*.
 
 ## The Team
 
-### Josh Peacock, Founder & Lead Consultant
+We're a family owned and operated business.
 
-Josh worked agency-side generating leads for local businesses, but his skill in lead gen strategies has allowed him to work with top companies like Lowe's Companies, Inc. (Fortune 45) and Red Ventures (Inc., 17).
+### Josh Peacock, Founder
 
-### Jim Peacock, Account Executive & CRM Specialist
+Josh worked agency-side generating leads for local businesses, but his skill in lead gen strategies has allowed him to work with top names like Lowe's Companies, Inc. (Fortune 45) and Red Ventures (Inc., 17).
+
+### Jim Peacock, Account Executive
 
 ### Micah Peacock, PPC Analyst & Multimedia Producer

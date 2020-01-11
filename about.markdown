@@ -16,6 +16,6 @@ Peacock Consulting is a high impact lead generation agency for local small busin
 
 Josh worked agency-side generating leads for local businesses, but his skill in lead gen strategies has allowed him to work with top companies like Lowe's Companies, Inc. (Fortune 45) and Red Ventures (Inc., 17).
 
-### Jim Peacock, Account Manager & CRM Specialist
+### Jim Peacock, Account Executive & CRM Specialist
 
 ### Micah Peacock, PPC Analyst & Multimedia Producer

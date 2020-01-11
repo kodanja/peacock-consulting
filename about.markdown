@@ -1,18 +1,21 @@
 ---
 layout: page
 title: About
+heading: About Peacock Consulting
+description: Peacock Consulting is a lead generation agency for local businesses that rapidly gets you cheap, ready-to-buy leads on Facebook. Read our story now!
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Do you get excited when new clients sign up for your programs?
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Peacock Consulting is a high impact lead generation agency for local small businesses that rapidly gets you cheap, ready-to-buy leads with Facebook Advertising.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## The Team
 
+### Josh Peacock, Founder & Lead Consultant
 
-[jekyll-organization]: https://github.com/jekyll
+Josh worked agency-side generating leads for local businesses, but his skill in lead gen strategies has allowed him to work with top companies like Lowe's Companies, Inc. (Fortune 45) and Red Ventures (Inc., 17).
+
+### Jim Peacock, Account Manager & CRM Specialist
+
+### Micah Peacock, PPC Analyst & Multimedia Producer

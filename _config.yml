@@ -6,6 +6,9 @@ linkedin_username: peacock-consulting-firm
 # Build settings
 theme: minima
 
+minima
+  - solarized
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap

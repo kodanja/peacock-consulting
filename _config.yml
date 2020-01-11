@@ -5,7 +5,7 @@ linkedin_username: peacock-consulting-firm
 
 # Build settings
 theme: minima
-  - solarized-dark
+  - minima-solarized
 
 plugins:
   - jekyll-feed

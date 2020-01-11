@@ -8,11 +8,11 @@ permalink: /about/
 
 Do you get excited when new clients sign up for your programs?
 
-Peacock Consulting is a high impact lead generation agency for local small businesses. We rapidly get you cheap, ready-to-buy leads using Facebook & Instagram Advertising.
+Peacock Consulting is a high impact lead generation agency for local small businesses. We rapidly get you cheap, ready-to-buy leads using Facebook & Instagram advertising.
 
 ## Our Mission
 
-We exist to get you *results*.
+We exist to help you reach your business growth goals.
 
 ## The Team
 
